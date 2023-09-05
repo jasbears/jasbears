@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jaylyn</h1>
 <h3 align="center">A passionate frontend developer from California</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasbears" alt="jasbears" /></a> </p>
-
 - 🔭 I’m currently working on [Animoo](https://github.com/4GeeksAcademy/TeamAniMoo-Final-Project)
 
 - 🌱 I’m currently learning **object-oriented programming**
