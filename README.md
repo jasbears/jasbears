@@ -14,7 +14,6 @@
 <p align="center">
 <a href="https://linkedin.com/in/jaylyn-stample" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaylyn-stample" height="30" width="40" /></a>
 <a href="https://www.behance.net/jaylynstample" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jaylynstample" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jaystample" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jaystample" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
