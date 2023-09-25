@@ -1,6 +1,7 @@
 <h1 align="center">Hello! I'm 🌸Jaylyn🌸!!</h1>
 <p align="center">A passionate software developer from California</p>
 <div align="center">
+  <img src="https://media.tenor.com/AKHj5e7v4pcAAAAi/cute.gif"/>
 <p> 🔭 I’m currently working on [<a href="https://github.com/4GeeksAcademy/TeamAniMoo-Final-Project"> Animoo! </a>] a mock anime-info site! </p>
 <p align="center"><small>with many more future projects to come! ^^</small></p>
 <p>🌱 I’m currently learning **object-oriented programming** </p>
