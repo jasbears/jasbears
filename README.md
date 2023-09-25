@@ -1,6 +1,5 @@
-<h1 align="center">══✿══╡°˖✧✿✧˖°╞══✿══</h1>
 <h1 align="center">Hello! I'm 🌸Jaylyn🌸!!</h1>
-<h3 align="center">A passionate software developer from California</h3>
+<p align="center">A passionate software developer from California</p>
 <div align="center">
 <p> 🔭 I’m currently working on [<a href="https://github.com/4GeeksAcademy/TeamAniMoo-Final-Project"> Animoo! </a>] a mock anime-info site! </p>
 <p align="center"><small>with many more future projects to come! ^^</small></p>
@@ -11,7 +10,7 @@
 <p> ⚡ Fact about me! **🏴‍☠️I'm a huge One Piece fan!👒** </p>
 </div>
 
-<h1 align="center">(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ ʕ·ᴥ·ʔ</h1>
+<h2 align="center">(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ ʕ·ᴥ·ʔ</h2>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
