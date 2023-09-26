@@ -4,9 +4,7 @@
   <img src="https://media.tenor.com/AKHj5e7v4pcAAAAi/cute.gif"/>
 <p> 🔭 I’m currently working on [<a href="https://github.com/4GeeksAcademy/TeamAniMoo-Final-Project"> Animoo! </a>] a mock anime-info site! </p>
 <p align="center"><small>with many more future projects to come! ^^</small></p>
-<p>🌱 I’m currently learning **object-oriented programming** </p>
-
-<p> 💬 Ask me about **frontend & game development** </p>
+<p>🌱 I’m currently learning **App Development** </p>
 
 <p> ⚡ Fact about me! **🏴‍☠️I'm a huge One Piece fan!👒** </p>
 </div>
