@@ -7,6 +7,9 @@
 <p>🌱 I’m currently learning **App Development** </p>
 
 <p> ⚡ Fact about me! **🏴‍☠️I'm a huge One Piece fan!👒** </p>
+
+<img src="https://media.tenor.com/AKHj5e7v4pcAAAAi/cute.gif](https://media1.tenor.com/m/Bsi-4JflVS4AAAAd/one-piece-mugiwara.gif"/>
+
 </div>
 
 <h2 align="center">(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧ ʕ·ᴥ·ʔ</h2>
