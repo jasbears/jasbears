@@ -1,14 +1,16 @@
 <h1 align="center">Hello! I'm 🌸Jaylyn🌸!!</h1>
-<p align="center">A passionate software developer from California</p>
+<p align="center">A passionate full-stack developer from California</p>
 <div align="center">
   <img src="https://media.tenor.com/AKHj5e7v4pcAAAAi/cute.gif"/>
-<p> 🔭 I’m currently working on [<a href="https://github.com/4GeeksAcademy/TeamAniMoo-Final-Project"> Animoo! </a>] a mock anime-info site! </p>
-<p align="center"><small>with many more future projects to come! ^^</small></p>
+<p align="center"><small>many future projects to come! ^^</small></p>
 <p>🌱 I’m currently learning **App Development** </p>
 
 <p> ⚡ Fact about me! **🏴‍☠️I'm a huge One Piece fan!👒** </p>
+<div>
+<img src="https://seeklogo.com/images/O/one-piece-logo-A80CEB54CC-seeklogo.com.png"/>
+</div>
+<img src="https://media1.tenor.com/m/of7YkoZ_FPUAAAAd/one-piece-paint.gif"/>
 
-<img src="https://media.tenor.com/AKHj5e7v4pcAAAAi/cute.gif](https://media1.tenor.com/m/Bsi-4JflVS4AAAAd/one-piece-mugiwara.gif"/>
 
 </div>
 
