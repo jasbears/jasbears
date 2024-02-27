@@ -12,10 +12,6 @@
 </div>
 <img src="https://media1.tenor.com/m/of7YkoZ_FPUAAAAd/one-piece-paint.gif"/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasbears)](https://github.com/jasbears/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasbears)](https://github.com/jasbears/github-readme-stats)
-
 </div>
 
 <h2 align="center"><img src="https://64.media.tumblr.com/412b7d4d8e8e3fa7af140ba20eca07b4/8d4566e7562e8fab-d3/s1280x1920/16cfd38aa3e10c12c2a7e4abd64e153e24d17c14.gif" align="center"/></h2>
