@@ -29,7 +29,7 @@
 
 <h5>Creative Skills</h5>
 
-[![My Skills](https://skills.thijs.gg/icons?i=blender,godot,unity&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=blender,godot,unity,unreal&theme=light)](https://skills.thijs.gg)
 
 <h5>Frontend:</h5>
 
